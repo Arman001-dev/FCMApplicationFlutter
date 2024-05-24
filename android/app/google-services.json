@@ -1,0 +1,395 @@
+{
+  "project_info": {
+    "project_number": "811040901579",
+    "firebase_url": "https://fir-sportsbook-by-vivarob.firebaseio.com",
+    "project_id": "firebase-sportsbook-by-vivarob",
+    "storage_bucket": "firebase-sportsbook-by-vivarob.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811040901579:android:469de82b90234da135ce4e",
+        "android_client_info": {
+          "package_name": "am.vbet.easy.vivaro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811040901579-pe219inugeda26a25lp735ggh6rlvrbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxYgPqaofPGHmfibwOeXEIvQaNhfbAo_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811040901579-bef5gksddh8jdns7gqcmnsoakcjdecm2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "811040901579-0ort50qptc75g3mrbpeb5daitg4i99rh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "am.vbet.easy.vivaro"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811040901579:android:40f518649f82a33735ce4e",
+        "android_client_info": {
+          "package_name": "am.vivarobet.belote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811040901579-pe219inugeda26a25lp735ggh6rlvrbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxYgPqaofPGHmfibwOeXEIvQaNhfbAo_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811040901579-bef5gksddh8jdns7gqcmnsoakcjdecm2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "811040901579-0ort50qptc75g3mrbpeb5daitg4i99rh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "am.vbet.easy.vivaro"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811040901579:android:7a4980bcb35f033c35ce4e",
+        "android_client_info": {
+          "package_name": "am.vivarobet.sportsbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811040901579-pe219inugeda26a25lp735ggh6rlvrbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxYgPqaofPGHmfibwOeXEIvQaNhfbAo_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811040901579-bef5gksddh8jdns7gqcmnsoakcjdecm2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "811040901579-0ort50qptc75g3mrbpeb5daitg4i99rh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "am.vbet.easy.vivaro"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811040901579:android:1b9beb2ed1d4476b35ce4e",
+        "android_client_info": {
+          "package_name": "com.betconstruct.belote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811040901579-funpndt58muspgbdtr4jbvtbq50r7b56.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.betconstruct.belote",
+            "certificate_hash": "4e508bbb04e01fe7053909d95ef3e471016f7b46"
+          }
+        },
+        {
+          "client_id": "811040901579-pe219inugeda26a25lp735ggh6rlvrbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxYgPqaofPGHmfibwOeXEIvQaNhfbAo_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811040901579-bef5gksddh8jdns7gqcmnsoakcjdecm2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "811040901579-0ort50qptc75g3mrbpeb5daitg4i99rh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "am.vbet.easy.vivaro"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811040901579:android:ef342e475348492935ce4e",
+        "android_client_info": {
+          "package_name": "com.betconstruct.usercommonlight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811040901579-pe219inugeda26a25lp735ggh6rlvrbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxYgPqaofPGHmfibwOeXEIvQaNhfbAo_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811040901579-bef5gksddh8jdns7gqcmnsoakcjdecm2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "811040901579-0ort50qptc75g3mrbpeb5daitg4i99rh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "am.vbet.easy.vivaro"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811040901579:android:c0cc9a7ad6e0b40335ce4e",
+        "android_client_info": {
+          "package_name": "com.betconstuct.sportsbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811040901579-navubfnl9gnhga9g23t1oqfvcfvudt4a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.betconstuct.sportsbook",
+            "certificate_hash": "07dd07f5bfffb55c238c25cea0c8aca6522205fa"
+          }
+        },
+        {
+          "client_id": "811040901579-pe219inugeda26a25lp735ggh6rlvrbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxYgPqaofPGHmfibwOeXEIvQaNhfbAo_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811040901579-bef5gksddh8jdns7gqcmnsoakcjdecm2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "811040901579-0ort50qptc75g3mrbpeb5daitg4i99rh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "am.vbet.easy.vivaro"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811040901579:android:f356a3c35ae6d0ad35ce4e",
+        "android_client_info": {
+          "package_name": "com.example.fcm_flutter_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811040901579-pe219inugeda26a25lp735ggh6rlvrbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxYgPqaofPGHmfibwOeXEIvQaNhfbAo_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811040901579-bef5gksddh8jdns7gqcmnsoakcjdecm2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "811040901579-0ort50qptc75g3mrbpeb5daitg4i99rh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "am.vbet.easy.vivaro"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811040901579:android:9c5e48669382902b35ce4e",
+        "android_client_info": {
+          "package_name": "com.vivaroBet.sportsbook.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811040901579-pe219inugeda26a25lp735ggh6rlvrbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxYgPqaofPGHmfibwOeXEIvQaNhfbAo_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811040901579-bef5gksddh8jdns7gqcmnsoakcjdecm2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "811040901579-0ort50qptc75g3mrbpeb5daitg4i99rh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "am.vbet.easy.vivaro"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811040901579:android:78f635b7429fa3d835ce4e",
+        "android_client_info": {
+          "package_name": "com.vivarobet.casino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811040901579-pe219inugeda26a25lp735ggh6rlvrbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxYgPqaofPGHmfibwOeXEIvQaNhfbAo_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811040901579-bef5gksddh8jdns7gqcmnsoakcjdecm2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "811040901579-0ort50qptc75g3mrbpeb5daitg4i99rh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "am.vbet.easy.vivaro"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811040901579:android:caf3798c1565bf4735ce4e",
+        "android_client_info": {
+          "package_name": "com.vivarobet.casino.light"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811040901579-bhinau7orilkbb3gm8135drv5h9l94nl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vivarobet.casino.light",
+            "certificate_hash": "1c21b6c046a1c0a065636bb54d5321856b93ed9d"
+          }
+        },
+        {
+          "client_id": "811040901579-pe219inugeda26a25lp735ggh6rlvrbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxYgPqaofPGHmfibwOeXEIvQaNhfbAo_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811040901579-bef5gksddh8jdns7gqcmnsoakcjdecm2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "811040901579-0ort50qptc75g3mrbpeb5daitg4i99rh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "am.vbet.easy.vivaro"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
